@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\bölüm2uygulama\bölüm2uygulama\bin\Debug\bölüm2uygulama.exe.config
+C:\Users\User\source\repos\bölüm2uygulama\bölüm2uygulama\bin\Debug\bölüm2uygulama.exe
+C:\Users\User\source\repos\bölüm2uygulama\bölüm2uygulama\bin\Debug\bölüm2uygulama.pdb
+C:\Users\User\source\repos\bölüm2uygulama\bölüm2uygulama\obj\Debug\bölüm2uygulama.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\bölüm2uygulama\bölüm2uygulama\obj\Debug\bölüm2uygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\bölüm2uygulama\bölüm2uygulama\obj\Debug\bölüm2uygulama.Form1.resources
+C:\Users\User\source\repos\bölüm2uygulama\bölüm2uygulama\obj\Debug\bölüm2uygulama.Properties.Resources.resources
+C:\Users\User\source\repos\bölüm2uygulama\bölüm2uygulama\obj\Debug\bölüm2uygulama.csproj.GenerateResource.cache
+C:\Users\User\source\repos\bölüm2uygulama\bölüm2uygulama\obj\Debug\bölüm2uygulama.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\bölüm2uygulama\bölüm2uygulama\obj\Debug\bölüm2uygulama.exe
+C:\Users\User\source\repos\bölüm2uygulama\bölüm2uygulama\obj\Debug\bölüm2uygulama.pdb
